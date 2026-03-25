@@ -1,20 +1,19 @@
-# To-Do CLI App 📝
+# 📝 To-Do CLI App
 
-A simple command-line application to manage daily tasks.
+A simple command-line application to manage your daily tasks efficiently.
 
-## Features
-- Add tasks
-- View tasks
-- Delete tasks
+---
 
-## How it works
-You can add your daily tasks, view them anytime, and delete completed ones using simple menu options.
+## ✨ Features
+- ➕ Add new tasks  
+- 📋 View all tasks  
+- ❌ Delete completed tasks  
+- 🔁 Interactive menu system  
 
-## How to run
-python main.py
+---
 
-## Example
-1. Add Task
-2. View Tasks
-3. Delete Task
-4. Exit
+## 🚀 How to Run
+1. Make sure Python is installed  
+2. Run the file:
+   ```bash
+   python main.py
